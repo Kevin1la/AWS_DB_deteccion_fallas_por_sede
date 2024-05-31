@@ -2,4 +2,5 @@ Usa servicios AWS para realizar el Backend para inspeccionar la cantidad de fall
 ![image](https://github.com/Kevin1la/AWS_DB_deteccion_fallas_por_sede/assets/132324615/be8f3ba0-83d3-4fd1-9e1a-c484d565c478)
 
 La arquitectura que sigue el sistema es:
-![Uploading image.png…]()
+![image](https://github.com/Kevin1la/AWS_DB_deteccion_fallas_por_sede/assets/132324615/927ee6c7-33d9-4235-87b5-50a0dd11c94e)
+
